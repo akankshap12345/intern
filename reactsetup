@@ -1,0 +1,3 @@
+npx create-react-app product-cart-app
+cd product-cart-app
+npm install @reduxjs/toolkit react-redux react-router-dom
